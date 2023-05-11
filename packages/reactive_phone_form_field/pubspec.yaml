@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   reactive_forms: ^14.1.0
-  phone_form_field: ^7.0.6
+  phone_form_field: ^7.1.0
 
 dev_dependencies:
   flutter_test:
